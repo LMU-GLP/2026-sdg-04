@@ -22,3 +22,4 @@ Start here, then read [overview.md](overview.md) first — it ties everything be
 - [incheon-dyslexia-guidebook.md](../sources/incheon-dyslexia-guidebook.md) — Incheon Metropolitan Office of Education dyslexia guidebook (2025)
 - [lucidread-dyslexia-accommodations.md](../sources/lucidread-dyslexia-accommodations.md) — LucidRead product page (California dyslexia accommodations)
 - [lausd-dyslexia-resolution.md](../sources/lausd-dyslexia-resolution.md) — LAUSD Board of Education dyslexia resolution, 2017 (via Decoding Dyslexia CA)
+- [lausd-dyslexia-implementation-followup.md](../sources/lausd-dyslexia-implementation-followup.md) — LAist report (Kyle Stokes, 2022) on how far LAUSD's 2017 resolution was actually carried out
