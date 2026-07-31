@@ -11,6 +11,7 @@
 - "Recent nationwide surveys in South Korea have also reported that about **1–5% of school-age students struggle with reading** and are at risk of having LD (Y. Kim, O. Kang, Woo, & Byun, 2015)" — i.e., far more students appear to struggle with reading than are ever formally identified as having a learning disability.
 - "In K. Lee's (2016) survey and social media analysis, **more than 60% of respondents** said that there was still pervasive discrimination toward people with disabilities."
 - For context on disability generally (not Korea-specific, not comparable to the Korea LD figures above): "it is estimated that over a billion people (approximately **15% of the world's population**) have some degree of disability (World Health Organization & World Bank, 2011)."
+- A parent-child heritability figure cited elsewhere in the literature: a child of a parent with LD has a **40–60%** chance of also having LD.
 
 ## Direct quotes
 
@@ -19,6 +20,8 @@
 > "We investigated whether this prevalence rate represents the 'true' population with LD, or whether, in reality, students are not being correctly identified as having LD, and are thus not receiving the appropriate educational support."
 
 > Gyeonggi-do's 2014 ordinance defined "dyslexia and related difficulties" as "symptoms of LD caused by dyslexia, ADHD, and depression" — a definition the authors note was written for dropout-prevention purposes, not for a schoolwide academic support system.
+
+> "Despite the invisible prevalence of LD over time, teachers in schools have expressed that they continue to encounter at-risk and LD students in their classes."
 
 ## Note on what this does and doesn't show
 

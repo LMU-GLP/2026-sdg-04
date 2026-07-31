@@ -1,6 +1,6 @@
 # Overview: Barriers to Learning — LA and South Korea
 
-Our challenge: **how might we make learning more accessible, engaging, or useful for students who face barriers at school?** Region is open. This page synthesizes what the sources in this wiki actually show, across two candidate regions and two different kinds of barrier.
+Our challenge: **how might we make learning more accessible, engaging, or useful for students who face barriers at school?** This page synthesizes what the sources in this wiki actually show, across the two candidate regions that were compared before the team committed to LAUSD (see [Problem Statement](problem-statement.md)).
 
 ## Two regions, two very different kinds of barrier
 
@@ -26,4 +26,4 @@ These are not the same barrier measured twice in two places — see [LA vs. Sout
 
 SDG Target 4.a calls for "safe, non-violent, inclusive and effective learning environments for all," and Target 4.1 for all children achieving "minimum proficiency in reading and mathematics" — the two targets most directly engaged by the evidence here ([source](../sources/un-sdg4-targets.md)).
 
-A `wiki/problem-statement.md` does not exist yet — that's the team's next step, once a region is chosen.
+The team has since chosen a region and population — see [Problem Statement](problem-statement.md).

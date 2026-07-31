@@ -6,9 +6,11 @@ Global estimate: **5% to 20% of all students** are estimated to have dyslexia, p
 
 ## The identification gap
 
-Despite that estimated at-risk population, South Korea's *officially identified* learning-disability rate has been falling for over a decade: **8.7%** of students receiving special-education support were identified with a learning disability in 2009, versus just **1.5%** in 2019 — representing only **0.02% of the entire school-age population** ([source](../sources/korea-learning-disabilities-prevalence.md)).
+Despite that estimated at-risk population, South Korea's *officially identified* learning-disability rate has been falling for over a decade: **8.7%** of students receiving special-education support were identified with a learning disability in 2009, versus just **1.5%** in 2019 — representing only **0.02% of the entire school-age population** ([source](../sources/korea-learning-disabilities-prevalence.md)). Put differently: the population estimated to be at risk (1–5%) is 50 to 250 times larger than the population actually being identified and served (0.02%).
 
 Shin & Choi argue this falling rate is not a real decline in need — it reflects an unresolved legal and clinical debate: two different identification criteria have been used inconsistently by Korean special education support centers since 2010, and public understanding of learning disabilities remains limited (more than 60% of respondents in one 2016 survey said discrimination toward people with disabilities was still pervasive) ([source](../sources/korea-learning-disabilities-prevalence.md)).
+
+> "Despite the invisible prevalence of LD over time, teachers in schools have expressed that they continue to encounter at-risk and LD students in their classes." ([source](../sources/korea-learning-disabilities-prevalence.md))
 
 ## Why this matters if untreated
 
@@ -25,3 +27,9 @@ The Incheon guidebook recommends structured, phonics-based instruction (rather t
 ## A U.S. data point, not directly comparable
 
 Separately, California's 2024 NAEP reading results show only **29% of 4th graders reading at proficient level** ([source](../sources/lucidread-dyslexia-accommodations.md)). This measures general reading proficiency across all students, not dyslexia/LD identification specifically — it should not be read as a Korea-vs-California dyslexia comparison. See [LA vs. South Korea](la-vs-korea-comparison.md).
+
+## Connects to
+
+- [Reading-Support Technology](reading-support-technology.md) — a California tool built for exactly this kind of unaddressed reading gap, in the other candidate region.
+- [SDG 4 Targets](sdg4-targets.md) — Target 4.a names disability-sensitive facilities as a quality-education requirement, which this population is falling outside of.
+- [Existing Programs and Products](existing-programs-and-products.md) — no source describes a program that improves *identification itself* in Korea, which is the gap this page documents.

@@ -21,4 +21,24 @@ Per CLAUDE.md's rules, figures from one region are not compared to figures from 
 - **LA** has the clearest trend data and a named, evaluated program (iAttend) with multi-year numbers.
 - **Korea** has the richer evidence on *why* a barrier persists — cost pressure compounding with policy uncertainty, and a documented identification/diagnosis gap for learning disabilities — but weaker district-level trend data comparable to LAUSD's.
 
+## What is comparable in spirit, if not in number
+
+Both regions show a barrier that is **structural rather than individual** — a student's
+control over the outcome is limited:
+
+- In LA, a student can't fix a family's transportation problem or a parent's confusion about
+  school policy on their own.
+- In Korea, a student with an undiagnosed learning disability can't fix a broken
+  identification system, and a family's ability to pay for tutoring is itself set by income.
+
+## Which region has more evidence behind it right now
+
+South Korea has the deeper paper trail for a *disability-specific* framing (an academic
+paper with decade-long government statistics, plus a real product working the same problem
+in the LA/California source material — see [Reading-Support Technology](reading-support-technology.md)).
+Los Angeles has the stronger paper trail for a *systemic/logistical* framing (a recent,
+detailed news account of program mechanics and multi-year district data). Neither region
+currently has a source connecting the two lenses (disability + logistics) in the same
+place — that is a real gap in this wiki, not a decided answer about which region to pick.
+
 This is a decision point for the team, not a conclusion any source reaches for us: pick the region based on which specific, well-evidenced barrier you can defend out loud, not on which country "sounds" worse.
