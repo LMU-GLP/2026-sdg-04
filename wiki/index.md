@@ -11,6 +11,7 @@ Start here, then read [overview.md](overview.md) first — it ties everything be
 - **[sdg4-targets.md](sdg4-targets.md)** — Which UN SDG 4 targets (4.1, 4.5, 4.a) our evidence actually speaks to, and what the UN page doesn't give us (country-level data).
 - **[existing-programs-and-products.md](existing-programs-and-products.md)** — Three real efforts already underway: LAUSD's iAttend, Incheon's dyslexia screening/instruction framework, and LucidRead's free accommodation tool.
 - **[la-vs-korea-comparison.md](la-vs-korea-comparison.md)** — Required comparison page: why LA's and Korea's headline figures measure different things and can't be averaged, plus where each region's evidence is strongest.
+- **[problem-statement.md](problem-statement.md)** — The team's committed region (LAUSD) and population (~128,000 students at risk for dyslexia, plus 71% of CA 4th graders not reading proficiently), with every figure cited and the gaps we can't yet defend flagged explicitly.
 
 ## Sources this wiki is built from
 
@@ -20,7 +21,4 @@ Start here, then read [overview.md](overview.md) first — it ties everything be
 - [korea-learning-disabilities-prevalence.md](../sources/korea-learning-disabilities-prevalence.md) — Shin & Choi, learning-disability identification in Korea (academic paper, in press)
 - [incheon-dyslexia-guidebook.md](../sources/incheon-dyslexia-guidebook.md) — Incheon Metropolitan Office of Education dyslexia guidebook (2025)
 - [lucidread-dyslexia-accommodations.md](../sources/lucidread-dyslexia-accommodations.md) — LucidRead product page (California dyslexia accommodations)
-
-## Not yet written
-
-- `wiki/problem-statement.md` — the region and population the team commits to, with citations (next session step)
+- [lausd-dyslexia-resolution.md](../sources/lausd-dyslexia-resolution.md) — LAUSD Board of Education dyslexia resolution, 2017 (via Decoding Dyslexia CA)
