@@ -21,6 +21,10 @@
 
 > Gyeonggi-do's 2014 ordinance defined "dyslexia and related difficulties" as "symptoms of LD caused by dyslexia, ADHD, and depression" — a definition the authors note was written for dropout-prevention purposes, not for a schoolwide academic support system.
 
+> "Since 2010, two different criteria have been used in South Korea: one written by the Ministry of Education, Science, and Technology (**MOEST, 2010**), and the other by the Korean Learning Disabilities Association (**KLDA, 2013**). In local SESCs, these assessment criteria have been used selectively and without clear guidelines." MOEST (2010) required scores of 75(±5) or higher on two IQ tests plus academic achievement two standard deviations (or two grade levels) below peers; KLDA (2013) instead used low achievement alone (16th percentile or one SD below peers) with IQ above 70 — two different, incompatible thresholds applied inconsistently across regional support centers (SESCs).
+
+> "Each municipal and provincial office of education across the nation announced ordinances to support students with dyslexia and reading difficulties," but "these city ordinances... were intended to be implemented only as a measure designed to prevent student dropouts, rather than as a district-based, schoolwide support system." (Gyeonggi-do's ordinance is given as the specific example; the paper does not name Incheon's ordinance as part of this dropout-prevention critique.)
+
 > "Despite the invisible prevalence of LD over time, teachers in schools have expressed that they continue to encounter at-risk and LD students in their classes."
 
 ## Note on what this does and doesn't show
