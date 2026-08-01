@@ -26,10 +26,10 @@ space should be measured against.
 Target 4.a is the one that most directly names disability as a design requirement for
 "quality education," not an afterthought. That gives explicit UN backing to a project framed
 around students with reading disabilities or learning differences — see
-[Learning Disabilities in South Korea](learning-disabilities-korea.md) and
+[Dyslexia and Learning Disabilities](dyslexia-learning-disabilities.md) and
 [Reading-Support Technology](reading-support-technology.md) for evidence that this exact
 gap exists in both of our candidate regions.
 
 **Note on scope:** the UN figures here are global averages. Nothing on this page should be
 read as a claim about Los Angeles or South Korea specifically — see
-[LA vs. South Korea](comparison-la-vs-korea.md) for those regions' own numbers.
+[LA vs. South Korea](la-vs-korea-comparison.md) for those regions' own numbers.

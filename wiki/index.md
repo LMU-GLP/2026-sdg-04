@@ -1,39 +1,29 @@
-# Wiki Index
+# Wiki Index — SDG 4 (Quality Education): Barriers at School
 
 Challenge: **How might we make learning more accessible, engaging, or useful for students
-who face barriers at school?** Region (Los Angeles vs. South Korea vs. elsewhere) is not yet
-decided — start with [LA vs. South Korea](comparison-la-vs-korea.md) if that's the question
-you're trying to answer.
+who face barriers at school?** Start with [overview.md](overview.md) — it ties together the
+LA-vs-Korea evidence and flags what surprised us — then [problem-statement.md](problem-statement.md)
+for the team's committed region and population.
 
-| Page | What's in it |
-|---|---|
-| [SDG 4 Targets](sdg4-targets.md) | The UN's own 2030 targets and 2024 progress figures for quality education — the yardstick this whole project is measured against. |
-| [Chronic Absenteeism in LA](chronic-absenteeism-la.md) | LAUSD's multi-year absenteeism data and what the district says is actually reducing it. |
-| [Private Education Spending in Korea](private-education-spending-korea.md) | How much Korean families spend on hagwons, and why the share of household budget going to it keeps rising. |
-| [Learning Disabilities in South Korea](learning-disabilities-korea.md) | Why Korea's official learning-disability identification rate has collapsed even though the at-risk population hasn't shrunk. |
-| [Reading-Support Technology (LucidRead)](reading-support-technology.md) | A free Chrome extension already deployed in California schools to accommodate dyslexia — an example of "someone already building this." |
-| [LA vs. South Korea](comparison-la-vs-korea.md) | A side-by-side of what each region's evidence actually shows, and why we're not averaging the numbers. |
+## Pages
 
-## Sources behind this wiki
+- **[overview.md](overview.md)** — Synthesis of all sources: what each region's evidence shows, what surprised us, what's still missing.
+- **[problem-statement.md](problem-statement.md)** — The team's committed region (LAUSD) and population (~128,000 students at risk for dyslexia, plus 71% of CA 4th graders not reading proficiently), with every figure cited and the gaps we can't yet defend flagged explicitly.
+- **[chronic-absenteeism-la.md](chronic-absenteeism-la.md)** — LAUSD chronic absenteeism data (32%+ in 2023–24, down from 45% in 2021–22) and what the district says is driving the improvement.
+- **[private-education-spending-korea.md](private-education-spending-korea.md)** — Record 13.5% of Korean household spending now goes to private education, plus which widely-cited hagwon statistics could not be verified.
+- **[dyslexia-learning-disabilities.md](dyslexia-learning-disabilities.md)** — Global and Korea-specific dyslexia/LD prevalence, South Korea's falling official identification rate despite a stable at-risk population, and what effective intervention looks like.
+- **[sdg4-targets.md](sdg4-targets.md)** — The UN's own 2030 targets and 2024 progress figures for quality education (Targets 4.1, 4.5, 4.a, 4.c) — the yardstick this project is measured against.
+- **[existing-programs-and-products.md](existing-programs-and-products.md)** — Three real efforts already underway: LAUSD's iAttend, Incheon's dyslexia screening/instruction framework, and LucidRead's free accommodation tool.
+- **[reading-support-technology.md](reading-support-technology.md)** — Deep dive on LucidRead: what it does, and the specific California funding gap (screening funded, accommodation technology not) it's built to fill.
+- **[la-vs-korea-comparison.md](la-vs-korea-comparison.md)** — Required comparison page: why LA's and Korea's headline figures measure different things and can't be averaged, plus where each region's evidence is strongest.
 
-All five source files live in [`sources/`](../sources/):
+## Sources this wiki is built from
 
-- [`la-chronic-absenteeism.md`](../sources/la-chronic-absenteeism.md) — The 74, June 2025
-- [`korea-private-education.md`](../sources/korea-private-education.md) — Korea Herald / KOSIS, Jan 2026
-- [`un-sdg4-targets.md`](../sources/un-sdg4-targets.md) — UN SDG 4 targets page
-- [`korea-learning-disabilities-invisible-population.md`](../sources/korea-learning-disabilities-invisible-population.md) — Shin & Choi, academic paper
-- [`lucidread-dyslexia-tool.md`](../sources/lucidread-dyslexia-tool.md) — LucidRead product page
-
-## Still missing (don't pitch these without a source)
-
-- No source yet connects LA's absenteeism problem to a disability/learning-difference lens,
-  or Korea's tutoring-spend problem to an absenteeism lens — see the note at the bottom of
-  [LA vs. South Korea](comparison-la-vs-korea.md).
-- No figure exists yet for how many LA or Korean students specifically have *undiagnosed*
-  reading disabilities (as opposed to Korea's national LD statistics, which are the closest
-  thing we have).
-- Two additional documents live in this repo's root (an Incheon Metropolitan Office of
-  Education dyslexia diagnosis/instruction guidebook, and an 8-link resource collection on
-  dyslexia screening and accommodations) that were **not** ingested into `sources/` for this
-  pass — worth a follow-up `sources/` entry if the team commits to the reading-disability
-  angle.
+- [la-chronic-absenteeism.md](../sources/la-chronic-absenteeism.md) — LAUSD attendance data (*The 74*, 2025)
+- [korea-private-education.md](../sources/korea-private-education.md) — Korean private-education spending (Yonhap/KOSIS, 2026)
+- [un-sdg4-targets.md](../sources/un-sdg4-targets.md) — UN SDG 4 targets and 2024 progress figures
+- [korea-learning-disabilities-prevalence.md](../sources/korea-learning-disabilities-prevalence.md) — Shin & Choi, learning-disability identification in Korea (academic paper, in press)
+- [incheon-dyslexia-guidebook.md](../sources/incheon-dyslexia-guidebook.md) — Incheon Metropolitan Office of Education dyslexia guidebook (2025)
+- [lucidread-dyslexia-accommodations.md](../sources/lucidread-dyslexia-accommodations.md) — LucidRead product page (California dyslexia accommodations)
+- [lausd-dyslexia-resolution.md](../sources/lausd-dyslexia-resolution.md) — LAUSD Board of Education dyslexia resolution, 2017 (via Decoding Dyslexia CA)
+- [lausd-dyslexia-implementation-followup.md](../sources/lausd-dyslexia-implementation-followup.md) — LAist report (Kyle Stokes, 2022) on how far LAUSD's 2017 resolution was actually carried out

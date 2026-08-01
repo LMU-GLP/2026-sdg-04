@@ -34,6 +34,19 @@ hours rather than leaving them at home alone"** — meaning hagwons are partly f
 childcare, not just supplemental instruction.
 ([Korea private education spending](../sources/korea-private-education.md))
 
+The source also points to policy churn as a driver: "frequent changes to college admission
+policies and resultant uncertainty are forcing parents to lean more heavily on private
+education." That means the cost barrier isn't purely a preference — it compounds for
+families who can't afford it, for both academic and childcare reasons.
+([Korea private education spending](../sources/korea-private-education.md))
+
+## Related barrier: under-identification of learning disabilities
+
+A separate and distinct barrier in Korea — not a cost barrier — is that officially
+identified learning-disability rates have fallen even as reading-difficulty surveys suggest
+a stable at-risk population. See
+[Dyslexia and Learning Disabilities in Korea](dyslexia-learning-disabilities.md).
+
 ## A caution about numbers not in this dataset
 
 Figures circulating elsewhere — "78% of students attend hagwons," Seoul students spending
