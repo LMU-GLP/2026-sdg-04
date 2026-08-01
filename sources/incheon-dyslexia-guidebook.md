@@ -12,6 +12,7 @@
 - Legal definition (Incheon ordinance, effective 2024.7.15): "지능과 시력·청력이 모두 정상이고 듣고 말하는 데는 별다른 지장을 못 느낌에도 불구하고 언어와 관계되는 두뇌 신경회로에 문제가 있어 글을 원활하게 읽고 이해하는 데 어려움을 겪는 학습장애 증상" — translated: **"a learning-disability condition in which a person of normal intelligence, vision, and hearing, with no notable difficulty speaking or listening, nonetheless has trouble reading and understanding text fluently, due to a problem in the brain's language-related neural circuitry."**
 - Recommended intervention intensity: **"주당 최소 3회 이상"** (at least 3 sessions per week), 10–15 minutes per session for phonological awareness instruction.
 - Citing Shaywitz's 2015 Connecticut longitudinal study: reading-score gaps between strong and weak readers, once present, **persist essentially unchanged from about age 6 through age 16** — described in the guidebook as evidence dyslexia is "a chronic difficulty, not a temporary delay" ("일시적인 지체가 아닌 만성적인 어려움").
+- "선별이나 진단평가는 가능하면 유치원이나 초등학교 1학년때 조기 개입" — screening/diagnostic assessment should ideally happen at **kindergarten or 1st grade** for early intervention. "그러나 초등학교 3학년이나 그 이후에 난독증이 발견되면 또래와 너무 많은 [격차가 벌어져 있다]" — but if dyslexia isn't found until **elementary 3rd grade or later**, the reading gap with peers has already grown too wide.
 
 ## What the program actually does
 
